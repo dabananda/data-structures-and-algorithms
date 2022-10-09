@@ -3,6 +3,7 @@
 !**/
 !*.c
 !*.cpp
+!*.cc
 !*.java
 !*.py
 !*.js
@@ -13,7 +14,9 @@ test.cpp
 test.o
 test.exe
 input.txt
+inputf.in
 output.txt
+outputf.out
 debug.cpp
 
 # Ignore .vscode folder
